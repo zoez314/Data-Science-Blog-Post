@@ -49,4 +49,3 @@ The following Python libraries were used for data analysis, visualization, and m
 
 - **`loan_repayment_analysis.ipynb`**: Jupyter Notebook containing all the analysis and modeling steps.
 - **`requirements.txt`**: A list of Python dependencies required to run the project.
-- **`images/`**: Folder containing visualizations such as confusion matrices and bar plots.
