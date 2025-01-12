@@ -13,7 +13,7 @@ git clone https://github.com/zoez314/Data-Science-Blog-Post.git
 
 pip install -r requirements.txt
 
-#🧑‍💻 Features
+## 🧑‍💻 Features
 Data Preprocessing: Missing value handling, scaling, encoding categorical variables.
 Model Training: Logistic Regression model.
 Evaluation: Confusion matrix, accuracy score, and ROC curve.
