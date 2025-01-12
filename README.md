@@ -49,3 +49,10 @@ The following Python libraries were used for data analysis, visualization, and m
 
 - **`loan_repayment_analysis.ipynb`**: Jupyter Notebook containing all the analysis and modeling steps.
 - **`requirements.txt`**: A list of Python dependencies required to run the project.
+
+## Blog Post
+For a detailed explanation of the project and results, check out the [Loan Repayment Analysis: Key Insights and Predictive Power with Machine Learning ](https://medium.com/@zoezhou314/exploring-loan-default-predictions-with-machine-learning-0049dd7b87d1).
+
+## Acknowledgements
+This project uses the [Loan Data Dataset](https://www.kaggle.com/datasets/urstrulyvikas/lending-club-loan-data-analysis/data) for loan default prediction. 
+
